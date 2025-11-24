@@ -31,7 +31,6 @@ ipython_config.py
 # -------------------------
 # Data Files (DO NOT PUSH)
 # -------------------------
-*.csv
 *.xlsx
 *.xls
 *.json
